@@ -21,7 +21,8 @@
     "@testing-library/user-event": "7.1.2",
     "cypress": "4.4.1",
     "node-sass": "4.13.1",
-    "prettier": "2.0.5"
+    "prettier": "2.0.5",
+    "start-server-and-test": "1.11.0"
   },
   "scripts": {
     "start": "react-scripts start",
