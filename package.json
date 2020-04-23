@@ -1,0 +1,46 @@
+{
+  "name": "@richardneililagan/01-cra",
+  "version": "0.1.0",
+  "private": true,
+  "license": "https://aws.amazon.com/asl",
+  "dependencies": {
+    "aws-amplify": "3.0.8",
+    "aws-amplify-react": "4.1.7",
+    "bloomer": "0.6.5",
+    "bulma": "0.8.2",
+    "clsx": "1.1.0",
+    "react": "16.13.1",
+    "react-dom": "16.13.1",
+    "react-helmet": "6.0.0",
+    "react-router-dom": "5.1.2",
+    "react-scripts": "3.4.1"
+  },
+  "devDependencies": {
+    "@testing-library/jest-dom": "4.2.4",
+    "@testing-library/react": "9.3.2",
+    "@testing-library/user-event": "7.1.2",
+    "node-sass": "4.13.1",
+    "prettier": "2.0.5"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
