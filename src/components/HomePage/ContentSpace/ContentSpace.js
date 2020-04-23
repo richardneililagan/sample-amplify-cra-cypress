@@ -1,5 +1,5 @@
 import React from 'react'
-import { Section, Container, Columns, Column, Title, Subtitle } from 'bloomer'
+import { Section, Container, Columns, Column, Title } from 'bloomer'
 
 // :: ---
 

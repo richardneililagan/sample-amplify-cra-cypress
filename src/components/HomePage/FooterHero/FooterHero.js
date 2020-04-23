@@ -1,13 +1,5 @@
 import React from 'react'
-import {
-  Hero,
-  HeroBody,
-  HeroVideo,
-  Container,
-  Title,
-  Subtitle,
-  Button,
-} from 'bloomer'
+import { Hero, HeroBody, Container, Title, Subtitle, Button } from 'bloomer'
 
 import footerbg from 'assets/footer_bg.jpg'
 
